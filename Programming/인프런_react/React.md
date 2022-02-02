@@ -145,7 +145,7 @@ HTML과 비슷하지만 지켜야 할 규칙이 몇가지 있다.
  - 리액트에서 class 사용하기
 
    ```react
-   import React, { Component, Fragment } from 'react';
+   import React, { Component } from 'react';
    import './App.css';	// css 불러옴(같은 폴더 위치)
    
    class App extends Component {
