@@ -20,7 +20,7 @@ import React, { Component } from 'react';
 
 1. class를 통해 만들기
 
-   ```javascript
+   ```react
 import React, { Component } from 'react';
     
    class App extends Component {
